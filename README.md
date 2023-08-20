@@ -59,6 +59,8 @@ Make sure this is the PCB Layout of the board you want.
 
 Step 4 – Choose Necessary PCB Options
 
+![FEP2OKBLL9GI263](https://github.com/No-Need-Loi/Make-Your-Own-ESP32-Simple/assets/142481076/ee79a6b2-8171-4edc-8f75-58105317fb0d)
+
 Below the PCB preview, you will see so many options such as PCB Quantity, Texture, Thickness, Color etc. Choose all that are necessary for you. 
 
 Network Time Protocol (NTP)
